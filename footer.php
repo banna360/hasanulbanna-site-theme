@@ -62,5 +62,6 @@
   ga('send', 'pageview');
 
 </script>
+MAKE WITH LOVE WORDPRESS
 	</body>
 </html>
